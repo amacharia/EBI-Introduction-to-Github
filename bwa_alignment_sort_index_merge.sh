@@ -1,4 +1,5 @@
 #!/bin/sh
+bwa index Saccharomyces_cerevisiae.EF4.68.dna.toplevel.fa
 
 for n in {1..2}
 do
